@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+}
+
+body {
+	background-color: #ffe6e6;
+}
+
+.table-responsive {
+	width: 1000px;
+	height: 1150px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: auto;
+}
+
+.two {
+	width: 250px;
+	height: 250px;
+}
+
+tr {
+	text-align: center;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+.text-bg-success {
+	width: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.aref {
+ text-align: center;
+}
